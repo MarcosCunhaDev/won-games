@@ -11,6 +11,7 @@ function Main({
     <main className="bg-blue-500 text-white w-full h-screen p-12 items-center justify-center border flex flex-col">
       <h1 className="text-xl">{title}</h1>
       <h2 className="font-normal">{description}</h2>
+      <h2 className="font-normal">Descricao</h2>
     </main>
   );
 }
